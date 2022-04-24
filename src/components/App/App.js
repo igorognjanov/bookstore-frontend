@@ -18,12 +18,7 @@ class App extends Component {
             books: [],
             categories: [],
             authors: [],
-            selectedBook: {
-                name: 'rogi',
-                category: 'igor',
-                author: 0,
-                availableCopies: 0
-            }
+            selectedBook: {}
         }
     }
 
